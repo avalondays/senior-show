@@ -223,10 +223,10 @@ main {
 
 
     li a {
-        font-size: 16pt;
+        font-size: 13pt;
         font-weight: 600;
         text-shadow: 2px 2px 10px #000000;
-        line-height: 4rem;
+        line-height: 6rem;
     }
 
     .students-o {
@@ -434,6 +434,8 @@ footer {
 
     .students {
 
+        padding: 3rem 0rem 3rem 0rem;
+
         h3,
         p,
         li a,
@@ -447,7 +449,7 @@ footer {
             transition: .2s all;
         }
 
-        padding: 3rem 0rem 3rem 0rem;
+        
 
         .students-heading {
             display: flex;
